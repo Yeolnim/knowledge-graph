@@ -1,0 +1,210 @@
+1.查询某一导演的所有影片
+
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT  DISTINCT   ?filmID
+WHERE {
+  ?filmID  movie:film_director  movie:director_001
+}
+
+
+
+2.查询某一导演的所有影片的影片名
+
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT ?name
+WHERE {
+  ?filmID  movie:film_director movie:director_001  .
+  ?filmID  movie:film_name  ?name
+ }
+
+
+3.查询某一个影片名的制作公司信息
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT ?filmID ?ablumID ?name
+WHERE {
+ ?filmID    movie:film_name     "film_name_00156"  .
+ ?filmID    movie:film_company    ?ablumID .
+ ?ablumID    movie:company_name     ?name
+}
+
+
+ 4. 查询某一个影片名的制作公司信息，使用中文来当变量名
+
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT ?影片id ?制作公司id ?制作公司名
+WHERE {
+  ?影片id  movie:film_name   "film_name_00001"   .
+  ?影片id  movie:film_company  ?制作公司id  .
+  ?制作公司id  movie:company_name   ?制作公司名
+}
+
+5.查询某一个影片名的制作公司信息，变量名添加描述
+
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT ?影片id ?制作公司id (CONCAT("制作公司名",":",?制作公司名) AS ?制作公司信息)
+WHERE {
+  ?影片id  movie:film_name   "film_name_00001"   .
+  ?影片id  movie:film_company  ?制作公司id  .
+  ?制作公司id  movie:company_name   ?制作公司名
+}
+
+
+6.查询某个制作公司出品的所有影片
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT  ?filmID
+WHERE {
+  ?companyID    movie:company_name   "company_name_0002"  .
+  ?filmID    movie:film_company   ?companyID
+}
+
+
+7.查询某个制作公司出品的所有影片,限制前2
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?S  ?P
+WHERE {
+  ?subject  ?predicate  "company_name_0002" .
+  ?S        ?P           ?subject
+}
+limit 2
+
+8.对某个制作公司里面的所有影片计数
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT  (COUNT(?filmID) as ?num)
+WHERE {
+  ?companyID    movie:company_name   "company_name_0002"  .
+  ?filmID    movie:film_company   ?companyID
+}
+
+
+9.查询某一个影片是哪一个导演的作品
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT ?filmID  ?directorID
+WHERE {
+?filmID  movie:film_name   "film_name_00001"  .
+?filmID movie:film_director ?directorID
+}
+
+
+ 10.查询某一个影片属于什么电影类型（标签）
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT  ?filmID ?tag_name
+WHERE {
+?filmID  movie:film_name   "film_name_00001" .
+?filmID  movie:film_tag    ?tag_name
+}
+
+ 11.查询某一导演导过影片的所有标签
+
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT  DISTINCT ?tag_name
+WHERE {
+ ?filmID    movie:film_director  movie:director_001  .
+ ?filmID    movie:film_tag    ?tag_name
+ }
+
+12.查询某一导演导过影片的所有类型并排序
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT  DISTINCT ?tag_name
+WHERE {
+ ?filmID    movie:film_director  movie:director_001  .
+ ?filmID    movie:film_tag    ?tag_name
+ }
+
+ORDER BY ?tag_name
+
+
+13.查询某几类影片标签中的影片的数目
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT  (COUNT(?filmID ) AS ?num)
+WHERE {
+{
+ ?filmID  movie:film_tag    "tag_name_01" .
+}
+UNION
+{
+   ?filmID movie:film_tag   "tag_name_02"  .
+}
+}
+
+
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT  (count(?filmID ) as ?num)
+WHERE {
+ ?filmID movie:film_tag  ?tag_name
+ FILTER (?tag_name = "tag_name_01"|| ?tag_name = "tag_name_02")
+ }
+
+
+
+14.查询所有影片中带有’xx’字符的影片名
+PREFIX movie: <http://kg.course/movie/>
+SELECT ?subject  ?object
+WHERE {
+  ?subject  movie:film_name  ?object .
+  FILTER  regex(?object,"088")
+}
+
+15.询问是否存在带有’xx’字符的影片名
+PREFIX movie: <http://kg.course/movie/>
+
+ASK
+{
+  ?filmID  movie:film_name  ?film_name .
+  FILTER    regex(?film_name,"008")
+}
+
+
+16.给导演id新增属性导演名字
+
+PREFIX movie: <http://kg.course/movie/>
+
+INSERT DATA
+{
+  movie:arttist_01  movie:director_name  "director_name_01" .
+  movie:arttist_02  movie:director_name  "director_name_02" .
+  movie:arttist_03  movie:director_name  "director_name_03" .
+}
+
+
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT  ?directorID  ?director_name
+WHERE {
+  ?directorID  movie:director_name ?director_name
+}
+
+
+17.删除增加的属性导演名字
+
+PREFIX movie: <http://kg.course/movie/>
+
+DELETE
+{
+  movie:arttist_02   movie:director_name ?x .
+}
+WHERE
+{
+   movie:arttist_02  movie:director_name ?x .
+}
+
+PREFIX movie: <http://kg.course/movie/>
+
+SELECT  ?directorID  ?director_name
+WHERE {
+  ?directorID  movie:director_name ?director_name
+}
+

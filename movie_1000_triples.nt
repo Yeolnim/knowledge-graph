@@ -1,0 +1,1000 @@
+<http://kg.course/movie/film_00001>  <http://kg.course/movie/film_name>  "film_name_00001" .
+<http://kg.course/movie/film_00001>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0001> .
+ <http://kg.course/movie/company_0001>  <http://kg.course/movie/company_name>  "company_name_0001" .
+<http://kg.course/movie/film_00001>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_001> .
+<http://kg.course/movie/film_00001>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00002>  <http://kg.course/movie/film_name>  "film_name_00002" .
+<http://kg.course/movie/film_00002>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0001> .
+ <http://kg.course/movie/company_0001>  <http://kg.course/movie/company_name>  "company_name_0001" .
+<http://kg.course/movie/film_00002>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_002> .
+<http://kg.course/movie/film_00002>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00003>  <http://kg.course/movie/film_name>  "film_name_00003" .
+<http://kg.course/movie/film_00003>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0001> .
+ <http://kg.course/movie/company_0001>  <http://kg.course/movie/company_name>  "company_name_0001" .
+<http://kg.course/movie/film_00003>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_003> .
+<http://kg.course/movie/film_00003>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00004>  <http://kg.course/movie/film_name>  "film_name_00004" .
+<http://kg.course/movie/film_00004>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0003> .
+ <http://kg.course/movie/company_0001>  <http://kg.course/movie/company_name>  "company_name_0001" .
+<http://kg.course/movie/film_00004>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_004> .
+<http://kg.course/movie/film_00004>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00005>  <http://kg.course/movie/film_name>  "film_name_00005" .
+<http://kg.course/movie/film_00005>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0002> .
+ <http://kg.course/movie/company_0001>  <http://kg.course/movie/company_name>  "company_name_0001" .
+<http://kg.course/movie/film_00005>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_005> .
+<http://kg.course/movie/film_00005>  <http://kg.course/movie/film_tag>  "tag_name_06" .
+<http://kg.course/movie/film_00006>  <http://kg.course/movie/film_name>  "film_name_00006" .
+<http://kg.course/movie/film_00006>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0001> .
+ <http://kg.course/movie/company_0001>  <http://kg.course/movie/company_name>  "company_name_0001" .
+<http://kg.course/movie/film_00006>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_006> .
+<http://kg.course/movie/film_00006>  <http://kg.course/movie/film_tag>  "tag_name_07" .
+<http://kg.course/movie/film_00007>  <http://kg.course/movie/film_name>  "film_name_00007" .
+<http://kg.course/movie/film_00007>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0002> .
+ <http://kg.course/movie/company_0001>  <http://kg.course/movie/company_name>  "company_name_0001" .
+<http://kg.course/movie/film_00007>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_007> .
+<http://kg.course/movie/film_00007>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00008>  <http://kg.course/movie/film_name>  "film_name_00008" .
+<http://kg.course/movie/film_00008>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0003> .
+ <http://kg.course/movie/company_0001>  <http://kg.course/movie/company_name>  "company_name_0001" .
+<http://kg.course/movie/film_00008>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_008> .
+<http://kg.course/movie/film_00008>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00009>  <http://kg.course/movie/film_name>  "film_name_00009" .
+<http://kg.course/movie/film_00009>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0004> .
+ <http://kg.course/movie/company_0001>  <http://kg.course/movie/company_name>  "company_name_0001" .
+<http://kg.course/movie/film_00009>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_009> .
+<http://kg.course/movie/film_00009>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00010>  <http://kg.course/movie/film_name>  "film_name_00010" .
+<http://kg.course/movie/film_00010>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0006> .
+ <http://kg.course/movie/company_0002>  <http://kg.course/movie/company_name>  "company_name_0002" .
+<http://kg.course/movie/film_00010>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_010> .
+<http://kg.course/movie/film_00010>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00011>  <http://kg.course/movie/film_name>  "film_name_00011" .
+<http://kg.course/movie/film_00011>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0002> .
+ <http://kg.course/movie/company_0002>  <http://kg.course/movie/company_name>  "company_name_0002" .
+<http://kg.course/movie/film_00011>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_011> .
+<http://kg.course/movie/film_00011>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00012>  <http://kg.course/movie/film_name>  "film_name_00012" .
+<http://kg.course/movie/film_00012>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0007> .
+ <http://kg.course/movie/company_0002>  <http://kg.course/movie/company_name>  "company_name_0002" .
+<http://kg.course/movie/film_00012>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_012> .
+<http://kg.course/movie/film_00012>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00013>  <http://kg.course/movie/film_name>  "film_name_00013" .
+<http://kg.course/movie/film_00013>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0002> .
+ <http://kg.course/movie/company_0002>  <http://kg.course/movie/company_name>  "company_name_0002" .
+<http://kg.course/movie/film_00013>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_001> .
+<http://kg.course/movie/film_00013>  <http://kg.course/movie/film_tag>  "tag_name_06" .
+<http://kg.course/movie/film_00014>  <http://kg.course/movie/film_name>  "film_name_00014" .
+<http://kg.course/movie/film_00014>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0008> .
+ <http://kg.course/movie/company_0002>  <http://kg.course/movie/company_name>  "company_name_0002" .
+<http://kg.course/movie/film_00014>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_014> .
+<http://kg.course/movie/film_00014>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00015>  <http://kg.course/movie/film_name>  "film_name_00015" .
+<http://kg.course/movie/film_00015>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0016> .
+ <http://kg.course/movie/company_0002>  <http://kg.course/movie/company_name>  "company_name_0002" .
+<http://kg.course/movie/film_00015>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_015> .
+<http://kg.course/movie/film_00015>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00016>  <http://kg.course/movie/film_name>  "film_name_00016" .
+<http://kg.course/movie/film_00016>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0002> .
+ <http://kg.course/movie/company_0002>  <http://kg.course/movie/company_name>  "company_name_0002" .
+<http://kg.course/movie/film_00016>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_016> .
+<http://kg.course/movie/film_00016>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00017>  <http://kg.course/movie/film_name>  "film_name_00017" .
+<http://kg.course/movie/film_00017>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0003> .
+ <http://kg.course/movie/company_0002>  <http://kg.course/movie/company_name>  "company_name_0002" .
+<http://kg.course/movie/film_00017>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_005> .
+<http://kg.course/movie/film_00017>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00018>  <http://kg.course/movie/film_name>  "film_name_00018" .
+<http://kg.course/movie/film_00018>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0005> .
+ <http://kg.course/movie/company_0002>  <http://kg.course/movie/company_name>  "company_name_0002" .
+<http://kg.course/movie/film_00018>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_018> .
+<http://kg.course/movie/film_00018>  <http://kg.course/movie/film_tag>  "tag_name_09" .
+<http://kg.course/movie/film_00019>  <http://kg.course/movie/film_name>  "film_name_00019" .
+<http://kg.course/movie/film_00019>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0003> .
+ <http://kg.course/movie/company_0002>  <http://kg.course/movie/company_name>  "company_name_0002" .
+<http://kg.course/movie/film_00019>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_019> .
+<http://kg.course/movie/film_00019>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00020>  <http://kg.course/movie/film_name>  "film_name_00020" .
+<http://kg.course/movie/film_00020>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0003> .
+ <http://kg.course/movie/company_0003>  <http://kg.course/movie/company_name>  "company_name_0003" .
+<http://kg.course/movie/film_00020>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_020> .
+<http://kg.course/movie/film_00020>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00021>  <http://kg.course/movie/film_name>  "film_name_00021" .
+<http://kg.course/movie/film_00021>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0022> .
+ <http://kg.course/movie/company_0003>  <http://kg.course/movie/company_name>  "company_name_0003" .
+<http://kg.course/movie/film_00021>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_021> .
+<http://kg.course/movie/film_00021>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00022>  <http://kg.course/movie/film_name>  "film_name_00022" .
+<http://kg.course/movie/film_00022>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0012> .
+ <http://kg.course/movie/company_0003>  <http://kg.course/movie/company_name>  "company_name_0003" .
+<http://kg.course/movie/film_00022>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_022> .
+<http://kg.course/movie/film_00022>  <http://kg.course/movie/film_tag>  "tag_name_05" .
+<http://kg.course/movie/film_00023>  <http://kg.course/movie/film_name>  "film_name_00023" .
+<http://kg.course/movie/film_00023>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0004> .
+ <http://kg.course/movie/company_0003>  <http://kg.course/movie/company_name>  "company_name_0003" .
+<http://kg.course/movie/film_00023>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_023> .
+<http://kg.course/movie/film_00023>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00024>  <http://kg.course/movie/film_name>  "film_name_00024" .
+<http://kg.course/movie/film_00024>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0005> .
+ <http://kg.course/movie/company_0003>  <http://kg.course/movie/company_name>  "company_name_0003" .
+<http://kg.course/movie/film_00024>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00024>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00025>  <http://kg.course/movie/film_name>  "film_name_00025" .
+<http://kg.course/movie/film_00025>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0013> .
+ <http://kg.course/movie/company_0003>  <http://kg.course/movie/company_name>  "company_name_0003" .
+<http://kg.course/movie/film_00025>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_025> .
+<http://kg.course/movie/film_00025>  <http://kg.course/movie/film_tag>  "tag_name_05" .
+<http://kg.course/movie/film_00026>  <http://kg.course/movie/film_name>  "film_name_00026" .
+<http://kg.course/movie/film_00026>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0027> .
+ <http://kg.course/movie/company_0003>  <http://kg.course/movie/company_name>  "company_name_0003" .
+<http://kg.course/movie/film_00026>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_011> .
+<http://kg.course/movie/film_00026>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00027>  <http://kg.course/movie/film_name>  "film_name_00027" .
+<http://kg.course/movie/film_00027>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0010> .
+ <http://kg.course/movie/company_0003>  <http://kg.course/movie/company_name>  "company_name_0003" .
+<http://kg.course/movie/film_00027>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_027> .
+<http://kg.course/movie/film_00027>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00028>  <http://kg.course/movie/film_name>  "film_name_00028" .
+<http://kg.course/movie/film_00028>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0004> .
+ <http://kg.course/movie/company_0003>  <http://kg.course/movie/company_name>  "company_name_0003" .
+<http://kg.course/movie/film_00028>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_028> .
+<http://kg.course/movie/film_00028>  <http://kg.course/movie/film_tag>  "tag_name_05" .
+<http://kg.course/movie/film_00029>  <http://kg.course/movie/film_name>  "film_name_00029" .
+<http://kg.course/movie/film_00029>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0004> .
+ <http://kg.course/movie/company_0003>  <http://kg.course/movie/company_name>  "company_name_0003" .
+<http://kg.course/movie/film_00029>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_029> .
+<http://kg.course/movie/film_00029>  <http://kg.course/movie/film_tag>  "tag_name_06" .
+<http://kg.course/movie/film_00030>  <http://kg.course/movie/film_name>  "film_name_00030" .
+<http://kg.course/movie/film_00030>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0005> .
+ <http://kg.course/movie/company_0004>  <http://kg.course/movie/company_name>  "company_name_0004" .
+<http://kg.course/movie/film_00030>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_030> .
+<http://kg.course/movie/film_00030>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00031>  <http://kg.course/movie/film_name>  "film_name_00031" .
+<http://kg.course/movie/film_00031>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0007> .
+ <http://kg.course/movie/company_0004>  <http://kg.course/movie/company_name>  "company_name_0004" .
+<http://kg.course/movie/film_00031>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_031> .
+<http://kg.course/movie/film_00031>  <http://kg.course/movie/film_tag>  "tag_name_08" .
+<http://kg.course/movie/film_00032>  <http://kg.course/movie/film_name>  "film_name_00032" .
+<http://kg.course/movie/film_00032>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0009> .
+ <http://kg.course/movie/company_0004>  <http://kg.course/movie/company_name>  "company_name_0004" .
+<http://kg.course/movie/film_00032>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_032> .
+<http://kg.course/movie/film_00032>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00033>  <http://kg.course/movie/film_name>  "film_name_00033" .
+<http://kg.course/movie/film_00033>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0034> .
+ <http://kg.course/movie/company_0004>  <http://kg.course/movie/company_name>  "company_name_0004" .
+<http://kg.course/movie/film_00033>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_033> .
+<http://kg.course/movie/film_00033>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00034>  <http://kg.course/movie/film_name>  "film_name_00034" .
+<http://kg.course/movie/film_00034>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0006> .
+ <http://kg.course/movie/company_0004>  <http://kg.course/movie/company_name>  "company_name_0004" .
+<http://kg.course/movie/film_00034>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_034> .
+<http://kg.course/movie/film_00034>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00035>  <http://kg.course/movie/film_name>  "film_name_00035" .
+<http://kg.course/movie/film_00035>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0006> .
+ <http://kg.course/movie/company_0004>  <http://kg.course/movie/company_name>  "company_name_0004" .
+<http://kg.course/movie/film_00035>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_007> .
+<http://kg.course/movie/film_00035>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00036>  <http://kg.course/movie/film_name>  "film_name_00036" .
+<http://kg.course/movie/film_00036>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0004> .
+ <http://kg.course/movie/company_0004>  <http://kg.course/movie/company_name>  "company_name_0004" .
+<http://kg.course/movie/film_00036>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_004> .
+<http://kg.course/movie/film_00036>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00037>  <http://kg.course/movie/film_name>  "film_name_00037" .
+<http://kg.course/movie/film_00037>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0038> .
+ <http://kg.course/movie/company_0004>  <http://kg.course/movie/company_name>  "company_name_0004" .
+<http://kg.course/movie/film_00037>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_008> .
+<http://kg.course/movie/film_00037>  <http://kg.course/movie/film_tag>  "tag_name_06" .
+<http://kg.course/movie/film_00038>  <http://kg.course/movie/film_name>  "film_name_00038" .
+<http://kg.course/movie/film_00038>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0007> .
+ <http://kg.course/movie/company_0004>  <http://kg.course/movie/company_name>  "company_name_0004" .
+<http://kg.course/movie/film_00038>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_018> .
+<http://kg.course/movie/film_00038>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00039>  <http://kg.course/movie/film_name>  "film_name_00039" .
+<http://kg.course/movie/film_00039>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0014> .
+ <http://kg.course/movie/company_0004>  <http://kg.course/movie/company_name>  "company_name_0004" .
+<http://kg.course/movie/film_00039>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_039> .
+<http://kg.course/movie/film_00039>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00040>  <http://kg.course/movie/film_name>  "film_name_00040" .
+<http://kg.course/movie/film_00040>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0021> .
+ <http://kg.course/movie/company_0005>  <http://kg.course/movie/company_name>  "company_name_0005" .
+<http://kg.course/movie/film_00040>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_040> .
+<http://kg.course/movie/film_00040>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00041>  <http://kg.course/movie/film_name>  "film_name_00041" .
+<http://kg.course/movie/film_00041>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0009> .
+ <http://kg.course/movie/company_0005>  <http://kg.course/movie/company_name>  "company_name_0005" .
+<http://kg.course/movie/film_00041>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_041> .
+<http://kg.course/movie/film_00041>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00042>  <http://kg.course/movie/film_name>  "film_name_00042" .
+<http://kg.course/movie/film_00042>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0022> .
+ <http://kg.course/movie/company_0005>  <http://kg.course/movie/company_name>  "company_name_0005" .
+<http://kg.course/movie/film_00042>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_042> .
+<http://kg.course/movie/film_00042>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00043>  <http://kg.course/movie/film_name>  "film_name_00043" .
+<http://kg.course/movie/film_00043>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0009> .
+ <http://kg.course/movie/company_0005>  <http://kg.course/movie/company_name>  "company_name_0005" .
+<http://kg.course/movie/film_00043>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_043> .
+<http://kg.course/movie/film_00043>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00044>  <http://kg.course/movie/film_name>  "film_name_00044" .
+<http://kg.course/movie/film_00044>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0005> .
+ <http://kg.course/movie/company_0005>  <http://kg.course/movie/company_name>  "company_name_0005" .
+<http://kg.course/movie/film_00044>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_044> .
+<http://kg.course/movie/film_00044>  <http://kg.course/movie/film_tag>  "tag_name_09" .
+<http://kg.course/movie/film_00045>  <http://kg.course/movie/film_name>  "film_name_00045" .
+<http://kg.course/movie/film_00045>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0005> .
+ <http://kg.course/movie/company_0005>  <http://kg.course/movie/company_name>  "company_name_0005" .
+<http://kg.course/movie/film_00045>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_019> .
+<http://kg.course/movie/film_00045>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00046>  <http://kg.course/movie/film_name>  "film_name_00046" .
+<http://kg.course/movie/film_00046>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0006> .
+ <http://kg.course/movie/company_0005>  <http://kg.course/movie/company_name>  "company_name_0005" .
+<http://kg.course/movie/film_00046>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_012> .
+<http://kg.course/movie/film_00046>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00047>  <http://kg.course/movie/film_name>  "film_name_00047" .
+<http://kg.course/movie/film_00047>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0012> .
+ <http://kg.course/movie/company_0005>  <http://kg.course/movie/company_name>  "company_name_0005" .
+<http://kg.course/movie/film_00047>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00047>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00048>  <http://kg.course/movie/film_name>  "film_name_00048" .
+<http://kg.course/movie/film_00048>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0013> .
+ <http://kg.course/movie/company_0005>  <http://kg.course/movie/company_name>  "company_name_0005" .
+<http://kg.course/movie/film_00048>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_004> .
+<http://kg.course/movie/film_00048>  <http://kg.course/movie/film_tag>  "tag_name_07" .
+<http://kg.course/movie/film_00049>  <http://kg.course/movie/film_name>  "film_name_00049" .
+<http://kg.course/movie/film_00049>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0009> .
+ <http://kg.course/movie/company_0005>  <http://kg.course/movie/company_name>  "company_name_0005" .
+<http://kg.course/movie/film_00049>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_001> .
+<http://kg.course/movie/film_00049>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00050>  <http://kg.course/movie/film_name>  "film_name_00050" .
+<http://kg.course/movie/film_00050>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0007> .
+ <http://kg.course/movie/company_0006>  <http://kg.course/movie/company_name>  "company_name_0006" .
+<http://kg.course/movie/film_00050>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_021> .
+<http://kg.course/movie/film_00050>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00051>  <http://kg.course/movie/film_name>  "film_name_00051" .
+<http://kg.course/movie/film_00051>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0006> .
+ <http://kg.course/movie/company_0006>  <http://kg.course/movie/company_name>  "company_name_0006" .
+<http://kg.course/movie/film_00051>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_003> .
+<http://kg.course/movie/film_00051>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00052>  <http://kg.course/movie/film_name>  "film_name_00052" .
+<http://kg.course/movie/film_00052>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0009> .
+ <http://kg.course/movie/company_0006>  <http://kg.course/movie/company_name>  "company_name_0006" .
+<http://kg.course/movie/film_00052>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_020> .
+<http://kg.course/movie/film_00052>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00053>  <http://kg.course/movie/film_name>  "film_name_00053" .
+<http://kg.course/movie/film_00053>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0018> .
+ <http://kg.course/movie/company_0006>  <http://kg.course/movie/company_name>  "company_name_0006" .
+<http://kg.course/movie/film_00053>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_024> .
+<http://kg.course/movie/film_00053>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00054>  <http://kg.course/movie/film_name>  "film_name_00054" .
+<http://kg.course/movie/film_00054>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0010> .
+ <http://kg.course/movie/company_0006>  <http://kg.course/movie/company_name>  "company_name_0006" .
+<http://kg.course/movie/film_00054>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_054> .
+<http://kg.course/movie/film_00054>  <http://kg.course/movie/film_tag>  "tag_name_06" .
+<http://kg.course/movie/film_00055>  <http://kg.course/movie/film_name>  "film_name_00055" .
+<http://kg.course/movie/film_00055>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0007> .
+ <http://kg.course/movie/company_0006>  <http://kg.course/movie/company_name>  "company_name_0006" .
+<http://kg.course/movie/film_00055>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_055> .
+<http://kg.course/movie/film_00055>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00056>  <http://kg.course/movie/film_name>  "film_name_00056" .
+<http://kg.course/movie/film_00056>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0008> .
+ <http://kg.course/movie/company_0006>  <http://kg.course/movie/company_name>  "company_name_0006" .
+<http://kg.course/movie/film_00056>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00056>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00057>  <http://kg.course/movie/film_name>  "film_name_00057" .
+<http://kg.course/movie/film_00057>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0012> .
+ <http://kg.course/movie/company_0006>  <http://kg.course/movie/company_name>  "company_name_0006" .
+<http://kg.course/movie/film_00057>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_057> .
+<http://kg.course/movie/film_00057>  <http://kg.course/movie/film_tag>  "tag_name_08" .
+<http://kg.course/movie/film_00058>  <http://kg.course/movie/film_name>  "film_name_00058" .
+<http://kg.course/movie/film_00058>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0009> .
+ <http://kg.course/movie/company_0006>  <http://kg.course/movie/company_name>  "company_name_0006" .
+<http://kg.course/movie/film_00058>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_015> .
+<http://kg.course/movie/film_00058>  <http://kg.course/movie/film_tag>  "tag_name_09" .
+<http://kg.course/movie/film_00059>  <http://kg.course/movie/film_name>  "film_name_00059" .
+<http://kg.course/movie/film_00059>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0020> .
+ <http://kg.course/movie/company_0006>  <http://kg.course/movie/company_name>  "company_name_0006" .
+<http://kg.course/movie/film_00059>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_017> .
+<http://kg.course/movie/film_00059>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00060>  <http://kg.course/movie/film_name>  "film_name_00060" .
+<http://kg.course/movie/film_00060>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0031> .
+ <http://kg.course/movie/company_0007>  <http://kg.course/movie/company_name>  "company_name_0007" .
+<http://kg.course/movie/film_00060>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_012> .
+<http://kg.course/movie/film_00060>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00061>  <http://kg.course/movie/film_name>  "film_name_00061" .
+<http://kg.course/movie/film_00061>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0016> .
+ <http://kg.course/movie/company_0007>  <http://kg.course/movie/company_name>  "company_name_0007" .
+<http://kg.course/movie/film_00061>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_022> .
+<http://kg.course/movie/film_00061>  <http://kg.course/movie/film_tag>  "tag_name_06" .
+<http://kg.course/movie/film_00062>  <http://kg.course/movie/film_name>  "film_name_00062" .
+<http://kg.course/movie/film_00062>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0032> .
+ <http://kg.course/movie/company_0007>  <http://kg.course/movie/company_name>  "company_name_0007" .
+<http://kg.course/movie/film_00062>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_062> .
+<http://kg.course/movie/film_00062>  <http://kg.course/movie/film_tag>  "tag_name_07" .
+<http://kg.course/movie/film_00063>  <http://kg.course/movie/film_name>  "film_name_00063" .
+<http://kg.course/movie/film_00063>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0011> .
+ <http://kg.course/movie/company_0007>  <http://kg.course/movie/company_name>  "company_name_0007" .
+<http://kg.course/movie/film_00063>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_063> .
+<http://kg.course/movie/film_00063>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00064>  <http://kg.course/movie/film_name>  "film_name_00064" .
+<http://kg.course/movie/film_00064>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0009> .
+ <http://kg.course/movie/company_0007>  <http://kg.course/movie/company_name>  "company_name_0007" .
+<http://kg.course/movie/film_00064>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_012> .
+<http://kg.course/movie/film_00064>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00065>  <http://kg.course/movie/film_name>  "film_name_00065" .
+<http://kg.course/movie/film_00065>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0033> .
+ <http://kg.course/movie/company_0007>  <http://kg.course/movie/company_name>  "company_name_0007" .
+<http://kg.course/movie/film_00065>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_011> .
+<http://kg.course/movie/film_00065>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00066>  <http://kg.course/movie/film_name>  "film_name_00066" .
+<http://kg.course/movie/film_00066>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0067> .
+ <http://kg.course/movie/company_0007>  <http://kg.course/movie/company_name>  "company_name_0007" .
+<http://kg.course/movie/film_00066>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_012> .
+<http://kg.course/movie/film_00066>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00067>  <http://kg.course/movie/film_name>  "film_name_00067" .
+<http://kg.course/movie/film_00067>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0014> .
+ <http://kg.course/movie/company_0007>  <http://kg.course/movie/company_name>  "company_name_0007" .
+<http://kg.course/movie/film_00067>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_067> .
+<http://kg.course/movie/film_00067>  <http://kg.course/movie/film_tag>  "tag_name_05" .
+<http://kg.course/movie/film_00068>  <http://kg.course/movie/film_name>  "film_name_00068" .
+<http://kg.course/movie/film_00068>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0010> .
+ <http://kg.course/movie/company_0007>  <http://kg.course/movie/company_name>  "company_name_0007" .
+<http://kg.course/movie/film_00068>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_032> .
+<http://kg.course/movie/film_00068>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00069>  <http://kg.course/movie/film_name>  "film_name_00069" .
+<http://kg.course/movie/film_00069>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0012> .
+ <http://kg.course/movie/company_0007>  <http://kg.course/movie/company_name>  "company_name_0007" .
+<http://kg.course/movie/film_00069>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_003> .
+<http://kg.course/movie/film_00069>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00070>  <http://kg.course/movie/film_name>  "film_name_00070" .
+<http://kg.course/movie/film_00070>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0011> .
+ <http://kg.course/movie/company_0008>  <http://kg.course/movie/company_name>  "company_name_0008" .
+<http://kg.course/movie/film_00070>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_002> .
+<http://kg.course/movie/film_00070>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00071>  <http://kg.course/movie/film_name>  "film_name_00071" .
+<http://kg.course/movie/film_00071>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0036> .
+ <http://kg.course/movie/company_0008>  <http://kg.course/movie/company_name>  "company_name_0008" .
+<http://kg.course/movie/film_00071>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_071> .
+<http://kg.course/movie/film_00071>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00072>  <http://kg.course/movie/film_name>  "film_name_00072" .
+<http://kg.course/movie/film_00072>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0025> .
+ <http://kg.course/movie/company_0008>  <http://kg.course/movie/company_name>  "company_name_0008" .
+<http://kg.course/movie/film_00072>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_072> .
+<http://kg.course/movie/film_00072>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00073>  <http://kg.course/movie/film_name>  "film_name_00073" .
+<http://kg.course/movie/film_00073>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0008> .
+ <http://kg.course/movie/company_0008>  <http://kg.course/movie/company_name>  "company_name_0008" .
+<http://kg.course/movie/film_00073>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_011> .
+<http://kg.course/movie/film_00073>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00074>  <http://kg.course/movie/film_name>  "film_name_00074" .
+<http://kg.course/movie/film_00074>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0019> .
+ <http://kg.course/movie/company_0008>  <http://kg.course/movie/company_name>  "company_name_0008" .
+<http://kg.course/movie/film_00074>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_024> .
+<http://kg.course/movie/film_00074>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00075>  <http://kg.course/movie/film_name>  "film_name_00075" .
+<http://kg.course/movie/film_00075>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0019> .
+ <http://kg.course/movie/company_0008>  <http://kg.course/movie/company_name>  "company_name_0008" .
+<http://kg.course/movie/film_00075>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_015> .
+<http://kg.course/movie/film_00075>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00076>  <http://kg.course/movie/film_name>  "film_name_00076" .
+<http://kg.course/movie/film_00076>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0009> .
+ <http://kg.course/movie/company_0008>  <http://kg.course/movie/company_name>  "company_name_0008" .
+<http://kg.course/movie/film_00076>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_076> .
+<http://kg.course/movie/film_00076>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00077>  <http://kg.course/movie/film_name>  "film_name_00077" .
+<http://kg.course/movie/film_00077>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0078> .
+ <http://kg.course/movie/company_0008>  <http://kg.course/movie/company_name>  "company_name_0008" .
+<http://kg.course/movie/film_00077>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_001> .
+<http://kg.course/movie/film_00077>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00078>  <http://kg.course/movie/film_name>  "film_name_00078" .
+<http://kg.course/movie/film_00078>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0079> .
+ <http://kg.course/movie/company_0008>  <http://kg.course/movie/company_name>  "company_name_0008" .
+<http://kg.course/movie/film_00078>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_035> .
+<http://kg.course/movie/film_00078>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00079>  <http://kg.course/movie/film_name>  "film_name_00079" .
+<http://kg.course/movie/film_00079>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0009> .
+ <http://kg.course/movie/company_0008>  <http://kg.course/movie/company_name>  "company_name_0008" .
+<http://kg.course/movie/film_00079>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_001> .
+<http://kg.course/movie/film_00079>  <http://kg.course/movie/film_tag>  "tag_name_08" .
+<http://kg.course/movie/film_00080>  <http://kg.course/movie/film_name>  "film_name_00080" .
+<http://kg.course/movie/film_00080>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0009> .
+ <http://kg.course/movie/company_0009>  <http://kg.course/movie/company_name>  "company_name_0009" .
+<http://kg.course/movie/film_00080>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_011> .
+<http://kg.course/movie/film_00080>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00081>  <http://kg.course/movie/film_name>  "film_name_00081" .
+<http://kg.course/movie/film_00081>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0009> .
+ <http://kg.course/movie/company_0009>  <http://kg.course/movie/company_name>  "company_name_0009" .
+<http://kg.course/movie/film_00081>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_001> .
+<http://kg.course/movie/film_00081>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00082>  <http://kg.course/movie/film_name>  "film_name_00082" .
+<http://kg.course/movie/film_00082>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0042> .
+ <http://kg.course/movie/company_0009>  <http://kg.course/movie/company_name>  "company_name_0009" .
+<http://kg.course/movie/film_00082>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_040> .
+<http://kg.course/movie/film_00082>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00083>  <http://kg.course/movie/film_name>  "film_name_00083" .
+<http://kg.course/movie/film_00083>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0009> .
+ <http://kg.course/movie/company_0009>  <http://kg.course/movie/company_name>  "company_name_0009" .
+<http://kg.course/movie/film_00083>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_007> .
+<http://kg.course/movie/film_00083>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00084>  <http://kg.course/movie/film_name>  "film_name_00084" .
+<http://kg.course/movie/film_00084>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0009> .
+ <http://kg.course/movie/company_0009>  <http://kg.course/movie/company_name>  "company_name_0009" .
+<http://kg.course/movie/film_00084>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_084> .
+<http://kg.course/movie/film_00084>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00085>  <http://kg.course/movie/film_name>  "film_name_00085" .
+<http://kg.course/movie/film_00085>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0013> .
+ <http://kg.course/movie/company_0009>  <http://kg.course/movie/company_name>  "company_name_0009" .
+<http://kg.course/movie/film_00085>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_025> .
+<http://kg.course/movie/film_00085>  <http://kg.course/movie/film_tag>  "tag_name_06" .
+<http://kg.course/movie/film_00086>  <http://kg.course/movie/film_name>  "film_name_00086" .
+<http://kg.course/movie/film_00086>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0044> .
+ <http://kg.course/movie/company_0009>  <http://kg.course/movie/company_name>  "company_name_0009" .
+<http://kg.course/movie/film_00086>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_005> .
+<http://kg.course/movie/film_00086>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00087>  <http://kg.course/movie/film_name>  "film_name_00087" .
+<http://kg.course/movie/film_00087>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0010> .
+ <http://kg.course/movie/company_0009>  <http://kg.course/movie/company_name>  "company_name_0009" .
+<http://kg.course/movie/film_00087>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00087>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00088>  <http://kg.course/movie/film_name>  "film_name_00088" .
+<http://kg.course/movie/film_00088>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0030> .
+ <http://kg.course/movie/company_0009>  <http://kg.course/movie/company_name>  "company_name_0009" .
+<http://kg.course/movie/film_00088>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_006> .
+<http://kg.course/movie/film_00088>  <http://kg.course/movie/film_tag>  "tag_name_08" .
+<http://kg.course/movie/film_00089>  <http://kg.course/movie/film_name>  "film_name_00089" .
+<http://kg.course/movie/film_00089>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0090> .
+ <http://kg.course/movie/company_0009>  <http://kg.course/movie/company_name>  "company_name_0009" .
+<http://kg.course/movie/film_00089>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_002> .
+<http://kg.course/movie/film_00089>  <http://kg.course/movie/film_tag>  "tag_name_10" .
+<http://kg.course/movie/film_00090>  <http://kg.course/movie/film_name>  "film_name_00090" .
+<http://kg.course/movie/film_00090>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0011> .
+ <http://kg.course/movie/company_0010>  <http://kg.course/movie/company_name>  "company_name_0010" .
+<http://kg.course/movie/film_00090>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_006> .
+<http://kg.course/movie/film_00090>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00091>  <http://kg.course/movie/film_name>  "film_name_00091" .
+<http://kg.course/movie/film_00091>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0012> .
+ <http://kg.course/movie/company_0010>  <http://kg.course/movie/company_name>  "company_name_0010" .
+<http://kg.course/movie/film_00091>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_039> .
+<http://kg.course/movie/film_00091>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00092>  <http://kg.course/movie/film_name>  "film_name_00092" .
+<http://kg.course/movie/film_00092>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0093> .
+ <http://kg.course/movie/company_0010>  <http://kg.course/movie/company_name>  "company_name_0010" .
+<http://kg.course/movie/film_00092>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_028> .
+<http://kg.course/movie/film_00092>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00093>  <http://kg.course/movie/film_name>  "film_name_00093" .
+<http://kg.course/movie/film_00093>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0032> .
+ <http://kg.course/movie/company_0010>  <http://kg.course/movie/company_name>  "company_name_0010" .
+<http://kg.course/movie/film_00093>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_009> .
+<http://kg.course/movie/film_00093>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00094>  <http://kg.course/movie/film_name>  "film_name_00094" .
+<http://kg.course/movie/film_00094>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0095> .
+ <http://kg.course/movie/company_0010>  <http://kg.course/movie/company_name>  "company_name_0010" .
+<http://kg.course/movie/film_00094>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_028> .
+<http://kg.course/movie/film_00094>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00095>  <http://kg.course/movie/film_name>  "film_name_00095" .
+<http://kg.course/movie/film_00095>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0011> .
+ <http://kg.course/movie/company_0010>  <http://kg.course/movie/company_name>  "company_name_0010" .
+<http://kg.course/movie/film_00095>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00095>  <http://kg.course/movie/film_tag>  "tag_name_06" .
+<http://kg.course/movie/film_00096>  <http://kg.course/movie/film_name>  "film_name_00096" .
+<http://kg.course/movie/film_00096>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0049> .
+ <http://kg.course/movie/company_0010>  <http://kg.course/movie/company_name>  "company_name_0010" .
+<http://kg.course/movie/film_00096>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_015> .
+<http://kg.course/movie/film_00096>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00097>  <http://kg.course/movie/film_name>  "film_name_00097" .
+<http://kg.course/movie/film_00097>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0011> .
+ <http://kg.course/movie/company_0010>  <http://kg.course/movie/company_name>  "company_name_0010" .
+<http://kg.course/movie/film_00097>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_001> .
+<http://kg.course/movie/film_00097>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00098>  <http://kg.course/movie/film_name>  "film_name_00098" .
+<http://kg.course/movie/film_00098>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0017> .
+ <http://kg.course/movie/company_0010>  <http://kg.course/movie/company_name>  "company_name_0010" .
+<http://kg.course/movie/film_00098>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_027> .
+<http://kg.course/movie/film_00098>  <http://kg.course/movie/film_tag>  "tag_name_09" .
+<http://kg.course/movie/film_00099>  <http://kg.course/movie/film_name>  "film_name_00099" .
+<http://kg.course/movie/film_00099>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0017> .
+ <http://kg.course/movie/company_0010>  <http://kg.course/movie/company_name>  "company_name_0010" .
+<http://kg.course/movie/film_00099>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_026> .
+<http://kg.course/movie/film_00099>  <http://kg.course/movie/film_tag>  "tag_name_05" .
+<http://kg.course/movie/film_00100>  <http://kg.course/movie/film_name>  "film_name_00100" .
+<http://kg.course/movie/film_00100>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0013> .
+ <http://kg.course/movie/company_0011>  <http://kg.course/movie/company_name>  "company_name_0011" .
+<http://kg.course/movie/film_00100>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_001> .
+<http://kg.course/movie/film_00100>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00101>  <http://kg.course/movie/film_name>  "film_name_00101" .
+<http://kg.course/movie/film_00101>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0026> .
+ <http://kg.course/movie/company_0011>  <http://kg.course/movie/company_name>  "company_name_0011" .
+<http://kg.course/movie/film_00101>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_037> .
+<http://kg.course/movie/film_00101>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00102>  <http://kg.course/movie/film_name>  "film_name_00102" .
+<http://kg.course/movie/film_00102>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0018> .
+ <http://kg.course/movie/company_0011>  <http://kg.course/movie/company_name>  "company_name_0011" .
+<http://kg.course/movie/film_00102>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00102>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00103>  <http://kg.course/movie/film_name>  "film_name_00103" .
+<http://kg.course/movie/film_00103>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0052> .
+ <http://kg.course/movie/company_0011>  <http://kg.course/movie/company_name>  "company_name_0011" .
+<http://kg.course/movie/film_00103>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_007> .
+<http://kg.course/movie/film_00103>  <http://kg.course/movie/film_tag>  "tag_name_05" .
+<http://kg.course/movie/film_00104>  <http://kg.course/movie/film_name>  "film_name_00104" .
+<http://kg.course/movie/film_00104>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0053> .
+ <http://kg.course/movie/company_0011>  <http://kg.course/movie/company_name>  "company_name_0011" .
+<http://kg.course/movie/film_00104>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_005> .
+<http://kg.course/movie/film_00104>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00105>  <http://kg.course/movie/film_name>  "film_name_00105" .
+<http://kg.course/movie/film_00105>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0053> .
+ <http://kg.course/movie/company_0011>  <http://kg.course/movie/company_name>  "company_name_0011" .
+<http://kg.course/movie/film_00105>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_001> .
+<http://kg.course/movie/film_00105>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00106>  <http://kg.course/movie/film_name>  "film_name_00106" .
+<http://kg.course/movie/film_00106>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0107> .
+ <http://kg.course/movie/company_0011>  <http://kg.course/movie/company_name>  "company_name_0011" .
+<http://kg.course/movie/film_00106>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_013> .
+<http://kg.course/movie/film_00106>  <http://kg.course/movie/film_tag>  "tag_name_08" .
+<http://kg.course/movie/film_00107>  <http://kg.course/movie/film_name>  "film_name_00107" .
+<http://kg.course/movie/film_00107>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0036> .
+ <http://kg.course/movie/company_0011>  <http://kg.course/movie/company_name>  "company_name_0011" .
+<http://kg.course/movie/film_00107>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_008> .
+<http://kg.course/movie/film_00107>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00108>  <http://kg.course/movie/film_name>  "film_name_00108" .
+<http://kg.course/movie/film_00108>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0022> .
+ <http://kg.course/movie/company_0011>  <http://kg.course/movie/company_name>  "company_name_0011" .
+<http://kg.course/movie/film_00108>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00108>  <http://kg.course/movie/film_tag>  "tag_name_09" .
+<http://kg.course/movie/film_00109>  <http://kg.course/movie/film_name>  "film_name_00109" .
+<http://kg.course/movie/film_00109>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0014> .
+ <http://kg.course/movie/company_0011>  <http://kg.course/movie/company_name>  "company_name_0011" .
+<http://kg.course/movie/film_00109>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_001> .
+<http://kg.course/movie/film_00109>  <http://kg.course/movie/film_tag>  "tag_name_05" .
+<http://kg.course/movie/film_00110>  <http://kg.course/movie/film_name>  "film_name_00110" .
+<http://kg.course/movie/film_00110>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0111> .
+ <http://kg.course/movie/company_0012>  <http://kg.course/movie/company_name>  "company_name_0012" .
+<http://kg.course/movie/film_00110>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_020> .
+<http://kg.course/movie/film_00110>  <http://kg.course/movie/film_tag>  "tag_name_07" .
+<http://kg.course/movie/film_00111>  <http://kg.course/movie/film_name>  "film_name_00111" .
+<http://kg.course/movie/film_00111>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0013> .
+ <http://kg.course/movie/company_0012>  <http://kg.course/movie/company_name>  "company_name_0012" .
+<http://kg.course/movie/film_00111>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_055> .
+<http://kg.course/movie/film_00111>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00112>  <http://kg.course/movie/film_name>  "film_name_00112" .
+<http://kg.course/movie/film_00112>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0012> .
+ <http://kg.course/movie/company_0012>  <http://kg.course/movie/company_name>  "company_name_0012" .
+<http://kg.course/movie/film_00112>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_047> .
+<http://kg.course/movie/film_00112>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00113>  <http://kg.course/movie/film_name>  "film_name_00113" .
+<http://kg.course/movie/film_00113>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0012> .
+ <http://kg.course/movie/company_0012>  <http://kg.course/movie/company_name>  "company_name_0012" .
+<http://kg.course/movie/film_00113>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_024> .
+<http://kg.course/movie/film_00113>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00114>  <http://kg.course/movie/film_name>  "film_name_00114" .
+<http://kg.course/movie/film_00114>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0115> .
+ <http://kg.course/movie/company_0012>  <http://kg.course/movie/company_name>  "company_name_0012" .
+<http://kg.course/movie/film_00114>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_022> .
+<http://kg.course/movie/film_00114>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00115>  <http://kg.course/movie/film_name>  "film_name_00115" .
+<http://kg.course/movie/film_00115>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0012> .
+ <http://kg.course/movie/company_0012>  <http://kg.course/movie/company_name>  "company_name_0012" .
+<http://kg.course/movie/film_00115>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_022> .
+<http://kg.course/movie/film_00115>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00116>  <http://kg.course/movie/film_name>  "film_name_00116" .
+<http://kg.course/movie/film_00116>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0024> .
+ <http://kg.course/movie/company_0012>  <http://kg.course/movie/company_name>  "company_name_0012" .
+<http://kg.course/movie/film_00116>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_020> .
+<http://kg.course/movie/film_00116>  <http://kg.course/movie/film_tag>  "tag_name_09" .
+<http://kg.course/movie/film_00117>  <http://kg.course/movie/film_name>  "film_name_00117" .
+<http://kg.course/movie/film_00117>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0030> .
+ <http://kg.course/movie/company_0012>  <http://kg.course/movie/company_name>  "company_name_0012" .
+<http://kg.course/movie/film_00117>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00117>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00118>  <http://kg.course/movie/film_name>  "film_name_00118" .
+<http://kg.course/movie/film_00118>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0024> .
+ <http://kg.course/movie/company_0012>  <http://kg.course/movie/company_name>  "company_name_0012" .
+<http://kg.course/movie/film_00118>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_008> .
+<http://kg.course/movie/film_00118>  <http://kg.course/movie/film_tag>  "tag_name_07" .
+<http://kg.course/movie/film_00119>  <http://kg.course/movie/film_name>  "film_name_00119" .
+<http://kg.course/movie/film_00119>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0020> .
+ <http://kg.course/movie/company_0012>  <http://kg.course/movie/company_name>  "company_name_0012" .
+<http://kg.course/movie/film_00119>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_027> .
+<http://kg.course/movie/film_00119>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00120>  <http://kg.course/movie/film_name>  "film_name_00120" .
+<http://kg.course/movie/film_00120>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0016> .
+ <http://kg.course/movie/company_0013>  <http://kg.course/movie/company_name>  "company_name_0013" .
+<http://kg.course/movie/film_00120>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00120>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00121>  <http://kg.course/movie/film_name>  "film_name_00121" .
+<http://kg.course/movie/film_00121>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0013> .
+ <http://kg.course/movie/company_0013>  <http://kg.course/movie/company_name>  "company_name_0013" .
+<http://kg.course/movie/film_00121>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_030> .
+<http://kg.course/movie/film_00121>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00122>  <http://kg.course/movie/film_name>  "film_name_00122" .
+<http://kg.course/movie/film_00122>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0018> .
+ <http://kg.course/movie/company_0013>  <http://kg.course/movie/company_name>  "company_name_0013" .
+<http://kg.course/movie/film_00122>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_002> .
+<http://kg.course/movie/film_00122>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00123>  <http://kg.course/movie/film_name>  "film_name_00123" .
+<http://kg.course/movie/film_00123>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0013> .
+ <http://kg.course/movie/company_0013>  <http://kg.course/movie/company_name>  "company_name_0013" .
+<http://kg.course/movie/film_00123>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_019> .
+<http://kg.course/movie/film_00123>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00124>  <http://kg.course/movie/film_name>  "film_name_00124" .
+<http://kg.course/movie/film_00124>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0018> .
+ <http://kg.course/movie/company_0013>  <http://kg.course/movie/company_name>  "company_name_0013" .
+<http://kg.course/movie/film_00124>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_014> .
+<http://kg.course/movie/film_00124>  <http://kg.course/movie/film_tag>  "tag_name_08" .
+<http://kg.course/movie/film_00125>  <http://kg.course/movie/film_name>  "film_name_00125" .
+<http://kg.course/movie/film_00125>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0063> .
+ <http://kg.course/movie/company_0013>  <http://kg.course/movie/company_name>  "company_name_0013" .
+<http://kg.course/movie/film_00125>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_011> .
+<http://kg.course/movie/film_00125>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00126>  <http://kg.course/movie/film_name>  "film_name_00126" .
+<http://kg.course/movie/film_00126>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0019> .
+ <http://kg.course/movie/company_0013>  <http://kg.course/movie/company_name>  "company_name_0013" .
+<http://kg.course/movie/film_00126>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_018> .
+<http://kg.course/movie/film_00126>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00127>  <http://kg.course/movie/film_name>  "film_name_00127" .
+<http://kg.course/movie/film_00127>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0026> .
+ <http://kg.course/movie/company_0013>  <http://kg.course/movie/company_name>  "company_name_0013" .
+<http://kg.course/movie/film_00127>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_034> .
+<http://kg.course/movie/film_00127>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00128>  <http://kg.course/movie/film_name>  "film_name_00128" .
+<http://kg.course/movie/film_00128>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0026> .
+ <http://kg.course/movie/company_0013>  <http://kg.course/movie/company_name>  "company_name_0013" .
+<http://kg.course/movie/film_00128>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_011> .
+<http://kg.course/movie/film_00128>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00129>  <http://kg.course/movie/film_name>  "film_name_00129" .
+<http://kg.course/movie/film_00129>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0017> .
+ <http://kg.course/movie/company_0013>  <http://kg.course/movie/company_name>  "company_name_0013" .
+<http://kg.course/movie/film_00129>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_053> .
+<http://kg.course/movie/film_00129>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00130>  <http://kg.course/movie/film_name>  "film_name_00130" .
+<http://kg.course/movie/film_00130>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0044> .
+ <http://kg.course/movie/company_0014>  <http://kg.course/movie/company_name>  "company_name_0014" .
+<http://kg.course/movie/film_00130>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_006> .
+<http://kg.course/movie/film_00130>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00131>  <http://kg.course/movie/film_name>  "film_name_00131" .
+<http://kg.course/movie/film_00131>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0033> .
+ <http://kg.course/movie/company_0014>  <http://kg.course/movie/company_name>  "company_name_0014" .
+<http://kg.course/movie/film_00131>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_009> .
+<http://kg.course/movie/film_00131>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00132>  <http://kg.course/movie/film_name>  "film_name_00132" .
+<http://kg.course/movie/film_00132>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0027> .
+ <http://kg.course/movie/company_0014>  <http://kg.course/movie/company_name>  "company_name_0014" .
+<http://kg.course/movie/film_00132>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_056> .
+<http://kg.course/movie/film_00132>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00133>  <http://kg.course/movie/film_name>  "film_name_00133" .
+<http://kg.course/movie/film_00133>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0027> .
+ <http://kg.course/movie/company_0014>  <http://kg.course/movie/company_name>  "company_name_0014" .
+<http://kg.course/movie/film_00133>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_010> .
+<http://kg.course/movie/film_00133>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00134>  <http://kg.course/movie/film_name>  "film_name_00134" .
+<http://kg.course/movie/film_00134>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0020> .
+ <http://kg.course/movie/company_0014>  <http://kg.course/movie/company_name>  "company_name_0014" .
+<http://kg.course/movie/film_00134>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_006> .
+<http://kg.course/movie/film_00134>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00135>  <http://kg.course/movie/film_name>  "film_name_00135" .
+<http://kg.course/movie/film_00135>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0016> .
+ <http://kg.course/movie/company_0014>  <http://kg.course/movie/company_name>  "company_name_0014" .
+<http://kg.course/movie/film_00135>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00135>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00136>  <http://kg.course/movie/film_name>  "film_name_00136" .
+<http://kg.course/movie/film_00136>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0014> .
+ <http://kg.course/movie/company_0014>  <http://kg.course/movie/company_name>  "company_name_0014" .
+<http://kg.course/movie/film_00136>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00136>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00137>  <http://kg.course/movie/film_name>  "film_name_00137" .
+<http://kg.course/movie/film_00137>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0018> .
+ <http://kg.course/movie/company_0014>  <http://kg.course/movie/company_name>  "company_name_0014" .
+<http://kg.course/movie/film_00137>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_013> .
+<http://kg.course/movie/film_00137>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00138>  <http://kg.course/movie/film_name>  "film_name_00138" .
+<http://kg.course/movie/film_00138>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0016> .
+ <http://kg.course/movie/company_0014>  <http://kg.course/movie/company_name>  "company_name_0014" .
+<http://kg.course/movie/film_00138>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_005> .
+<http://kg.course/movie/film_00138>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00139>  <http://kg.course/movie/film_name>  "film_name_00139" .
+<http://kg.course/movie/film_00139>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0047> .
+ <http://kg.course/movie/company_0014>  <http://kg.course/movie/company_name>  "company_name_0014" .
+<http://kg.course/movie/film_00139>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_001> .
+<http://kg.course/movie/film_00139>  <http://kg.course/movie/film_tag>  "tag_name_07" .
+<http://kg.course/movie/film_00140>  <http://kg.course/movie/film_name>  "film_name_00140" .
+<http://kg.course/movie/film_00140>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0071> .
+ <http://kg.course/movie/company_0015>  <http://kg.course/movie/company_name>  "company_name_0015" .
+<http://kg.course/movie/film_00140>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_032> .
+<http://kg.course/movie/film_00140>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00141>  <http://kg.course/movie/film_name>  "film_name_00141" .
+<http://kg.course/movie/film_00141>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0015> .
+ <http://kg.course/movie/company_0015>  <http://kg.course/movie/company_name>  "company_name_0015" .
+<http://kg.course/movie/film_00141>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_044> .
+<http://kg.course/movie/film_00141>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00142>  <http://kg.course/movie/film_name>  "film_name_00142" .
+<http://kg.course/movie/film_00142>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0021> .
+ <http://kg.course/movie/company_0015>  <http://kg.course/movie/company_name>  "company_name_0015" .
+<http://kg.course/movie/film_00142>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_056> .
+<http://kg.course/movie/film_00142>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00143>  <http://kg.course/movie/film_name>  "film_name_00143" .
+<http://kg.course/movie/film_00143>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0036> .
+ <http://kg.course/movie/company_0015>  <http://kg.course/movie/company_name>  "company_name_0015" .
+<http://kg.course/movie/film_00143>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_017> .
+<http://kg.course/movie/film_00143>  <http://kg.course/movie/film_tag>  "tag_name_09" .
+<http://kg.course/movie/film_00144>  <http://kg.course/movie/film_name>  "film_name_00144" .
+<http://kg.course/movie/film_00144>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0073> .
+ <http://kg.course/movie/company_0015>  <http://kg.course/movie/company_name>  "company_name_0015" .
+<http://kg.course/movie/film_00144>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_018> .
+<http://kg.course/movie/film_00144>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00145>  <http://kg.course/movie/film_name>  "film_name_00145" .
+<http://kg.course/movie/film_00145>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0025> .
+ <http://kg.course/movie/company_0015>  <http://kg.course/movie/company_name>  "company_name_0015" .
+<http://kg.course/movie/film_00145>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_005> .
+<http://kg.course/movie/film_00145>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00146>  <http://kg.course/movie/film_name>  "film_name_00146" .
+<http://kg.course/movie/film_00146>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0147> .
+ <http://kg.course/movie/company_0015>  <http://kg.course/movie/company_name>  "company_name_0015" .
+<http://kg.course/movie/film_00146>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_035> .
+<http://kg.course/movie/film_00146>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00147>  <http://kg.course/movie/film_name>  "film_name_00147" .
+<http://kg.course/movie/film_00147>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0022> .
+ <http://kg.course/movie/company_0015>  <http://kg.course/movie/company_name>  "company_name_0015" .
+<http://kg.course/movie/film_00147>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_060> .
+<http://kg.course/movie/film_00147>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00148>  <http://kg.course/movie/film_name>  "film_name_00148" .
+<http://kg.course/movie/film_00148>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0022> .
+ <http://kg.course/movie/company_0015>  <http://kg.course/movie/company_name>  "company_name_0015" .
+<http://kg.course/movie/film_00148>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00148>  <http://kg.course/movie/film_tag>  "tag_name_05" .
+<http://kg.course/movie/film_00149>  <http://kg.course/movie/film_name>  "film_name_00149" .
+<http://kg.course/movie/film_00149>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0019> .
+ <http://kg.course/movie/company_0015>  <http://kg.course/movie/company_name>  "company_name_0015" .
+<http://kg.course/movie/film_00149>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_006> .
+<http://kg.course/movie/film_00149>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00150>  <http://kg.course/movie/film_name>  "film_name_00150" .
+<http://kg.course/movie/film_00150>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0022> .
+ <http://kg.course/movie/company_0016>  <http://kg.course/movie/company_name>  "company_name_0016" .
+<http://kg.course/movie/film_00150>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_073> .
+<http://kg.course/movie/film_00150>  <http://kg.course/movie/film_tag>  "tag_name_07" .
+<http://kg.course/movie/film_00151>  <http://kg.course/movie/film_name>  "film_name_00151" .
+<http://kg.course/movie/film_00151>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0022> .
+ <http://kg.course/movie/company_0016>  <http://kg.course/movie/company_name>  "company_name_0016" .
+<http://kg.course/movie/film_00151>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_043> .
+<http://kg.course/movie/film_00151>  <http://kg.course/movie/film_tag>  "tag_name_05" .
+<http://kg.course/movie/film_00152>  <http://kg.course/movie/film_name>  "film_name_00152" .
+<http://kg.course/movie/film_00152>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0031> .
+ <http://kg.course/movie/company_0016>  <http://kg.course/movie/company_name>  "company_name_0016" .
+<http://kg.course/movie/film_00152>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_028> .
+<http://kg.course/movie/film_00152>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00153>  <http://kg.course/movie/film_name>  "film_name_00153" .
+<http://kg.course/movie/film_00153>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0016> .
+ <http://kg.course/movie/company_0016>  <http://kg.course/movie/company_name>  "company_name_0016" .
+<http://kg.course/movie/film_00153>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_041> .
+<http://kg.course/movie/film_00153>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00154>  <http://kg.course/movie/film_name>  "film_name_00154" .
+<http://kg.course/movie/film_00154>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0016> .
+ <http://kg.course/movie/company_0016>  <http://kg.course/movie/company_name>  "company_name_0016" .
+<http://kg.course/movie/film_00154>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_007> .
+<http://kg.course/movie/film_00154>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00155>  <http://kg.course/movie/film_name>  "film_name_00155" .
+<http://kg.course/movie/film_00155>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0016> .
+ <http://kg.course/movie/company_0016>  <http://kg.course/movie/company_name>  "company_name_0016" .
+<http://kg.course/movie/film_00155>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_023> .
+<http://kg.course/movie/film_00155>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00156>  <http://kg.course/movie/film_name>  "film_name_00156" .
+<http://kg.course/movie/film_00156>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0018> .
+ <http://kg.course/movie/company_0016>  <http://kg.course/movie/company_name>  "company_name_0016" .
+<http://kg.course/movie/film_00156>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_060> .
+<http://kg.course/movie/film_00156>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00157>  <http://kg.course/movie/film_name>  "film_name_00157" .
+<http://kg.course/movie/film_00157>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0016> .
+ <http://kg.course/movie/company_0016>  <http://kg.course/movie/company_name>  "company_name_0016" .
+<http://kg.course/movie/film_00157>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_007> .
+<http://kg.course/movie/film_00157>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00158>  <http://kg.course/movie/film_name>  "film_name_00158" .
+<http://kg.course/movie/film_00158>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0016> .
+ <http://kg.course/movie/company_0016>  <http://kg.course/movie/company_name>  "company_name_0016" .
+<http://kg.course/movie/film_00158>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_029> .
+<http://kg.course/movie/film_00158>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00159>  <http://kg.course/movie/film_name>  "film_name_00159" .
+<http://kg.course/movie/film_00159>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0020> .
+ <http://kg.course/movie/company_0016>  <http://kg.course/movie/company_name>  "company_name_0016" .
+<http://kg.course/movie/film_00159>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_024> .
+<http://kg.course/movie/film_00159>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00160>  <http://kg.course/movie/film_name>  "film_name_00160" .
+<http://kg.course/movie/film_00160>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0081> .
+ <http://kg.course/movie/company_0017>  <http://kg.course/movie/company_name>  "company_name_0017" .
+<http://kg.course/movie/film_00160>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_013> .
+<http://kg.course/movie/film_00160>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00161>  <http://kg.course/movie/film_name>  "film_name_00161" .
+<http://kg.course/movie/film_00161>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0033> .
+ <http://kg.course/movie/company_0017>  <http://kg.course/movie/company_name>  "company_name_0017" .
+<http://kg.course/movie/film_00161>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_017> .
+<http://kg.course/movie/film_00161>  <http://kg.course/movie/film_tag>  "tag_name_06" .
+<http://kg.course/movie/film_00162>  <http://kg.course/movie/film_name>  "film_name_00162" .
+<http://kg.course/movie/film_00162>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0021> .
+ <http://kg.course/movie/company_0017>  <http://kg.course/movie/company_name>  "company_name_0017" .
+<http://kg.course/movie/film_00162>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00162>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00163>  <http://kg.course/movie/film_name>  "film_name_00163" .
+<http://kg.course/movie/film_00163>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0028> .
+ <http://kg.course/movie/company_0017>  <http://kg.course/movie/company_name>  "company_name_0017" .
+<http://kg.course/movie/film_00163>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_007> .
+<http://kg.course/movie/film_00163>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00164>  <http://kg.course/movie/film_name>  "film_name_00164" .
+<http://kg.course/movie/film_00164>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0165> .
+ <http://kg.course/movie/company_0017>  <http://kg.course/movie/company_name>  "company_name_0017" .
+<http://kg.course/movie/film_00164>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_020> .
+<http://kg.course/movie/film_00164>  <http://kg.course/movie/film_tag>  "tag_name_05" .
+<http://kg.course/movie/film_00165>  <http://kg.course/movie/film_name>  "film_name_00165" .
+<http://kg.course/movie/film_00165>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0021> .
+ <http://kg.course/movie/company_0017>  <http://kg.course/movie/company_name>  "company_name_0017" .
+<http://kg.course/movie/film_00165>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_005> .
+<http://kg.course/movie/film_00165>  <http://kg.course/movie/film_tag>  "tag_name_06" .
+<http://kg.course/movie/film_00166>  <http://kg.course/movie/film_name>  "film_name_00166" .
+<http://kg.course/movie/film_00166>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0084> .
+ <http://kg.course/movie/company_0017>  <http://kg.course/movie/company_name>  "company_name_0017" .
+<http://kg.course/movie/film_00166>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_077> .
+<http://kg.course/movie/film_00166>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00167>  <http://kg.course/movie/film_name>  "film_name_00167" .
+<http://kg.course/movie/film_00167>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0024> .
+ <http://kg.course/movie/company_0017>  <http://kg.course/movie/company_name>  "company_name_0017" .
+<http://kg.course/movie/film_00167>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_007> .
+<http://kg.course/movie/film_00167>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00168>  <http://kg.course/movie/film_name>  "film_name_00168" .
+<http://kg.course/movie/film_00168>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0085> .
+ <http://kg.course/movie/company_0017>  <http://kg.course/movie/company_name>  "company_name_0017" .
+<http://kg.course/movie/film_00168>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_012> .
+<http://kg.course/movie/film_00168>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00169>  <http://kg.course/movie/film_name>  "film_name_00169" .
+<http://kg.course/movie/film_00169>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0029> .
+ <http://kg.course/movie/company_0017>  <http://kg.course/movie/company_name>  "company_name_0017" .
+<http://kg.course/movie/film_00169>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_083> .
+<http://kg.course/movie/film_00169>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00170>  <http://kg.course/movie/film_name>  "film_name_00170" .
+<http://kg.course/movie/film_00170>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0057> .
+ <http://kg.course/movie/company_0018>  <http://kg.course/movie/company_name>  "company_name_0018" .
+<http://kg.course/movie/film_00170>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_010> .
+<http://kg.course/movie/film_00170>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00171>  <http://kg.course/movie/film_name>  "film_name_00171" .
+<http://kg.course/movie/film_00171>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0086> .
+ <http://kg.course/movie/company_0018>  <http://kg.course/movie/company_name>  "company_name_0018" .
+<http://kg.course/movie/film_00171>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_003> .
+<http://kg.course/movie/film_00171>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00172>  <http://kg.course/movie/film_name>  "film_name_00172" .
+<http://kg.course/movie/film_00172>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0020> .
+ <http://kg.course/movie/company_0018>  <http://kg.course/movie/company_name>  "company_name_0018" .
+<http://kg.course/movie/film_00172>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_007> .
+<http://kg.course/movie/film_00172>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00173>  <http://kg.course/movie/film_name>  "film_name_00173" .
+<http://kg.course/movie/film_00173>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0020> .
+ <http://kg.course/movie/company_0018>  <http://kg.course/movie/company_name>  "company_name_0018" .
+<http://kg.course/movie/film_00173>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_082> .
+<http://kg.course/movie/film_00173>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00174>  <http://kg.course/movie/film_name>  "film_name_00174" .
+<http://kg.course/movie/film_00174>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0018> .
+ <http://kg.course/movie/company_0018>  <http://kg.course/movie/company_name>  "company_name_0018" .
+<http://kg.course/movie/film_00174>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_056> .
+<http://kg.course/movie/film_00174>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00175>  <http://kg.course/movie/film_name>  "film_name_00175" .
+<http://kg.course/movie/film_00175>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0022> .
+ <http://kg.course/movie/company_0018>  <http://kg.course/movie/company_name>  "company_name_0018" .
+<http://kg.course/movie/film_00175>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_013> .
+<http://kg.course/movie/film_00175>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00176>  <http://kg.course/movie/film_name>  "film_name_00176" .
+<http://kg.course/movie/film_00176>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0045> .
+ <http://kg.course/movie/company_0018>  <http://kg.course/movie/company_name>  "company_name_0018" .
+<http://kg.course/movie/film_00176>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00176>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00177>  <http://kg.course/movie/film_name>  "film_name_00177" .
+<http://kg.course/movie/film_00177>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0089> .
+ <http://kg.course/movie/company_0018>  <http://kg.course/movie/company_name>  "company_name_0018" .
+<http://kg.course/movie/film_00177>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00177>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00178>  <http://kg.course/movie/film_name>  "film_name_00178" .
+<http://kg.course/movie/film_00178>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0179> .
+ <http://kg.course/movie/company_0018>  <http://kg.course/movie/company_name>  "company_name_0018" .
+<http://kg.course/movie/film_00178>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00178>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00179>  <http://kg.course/movie/film_name>  "film_name_00179" .
+<http://kg.course/movie/film_00179>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0036> .
+ <http://kg.course/movie/company_0018>  <http://kg.course/movie/company_name>  "company_name_0018" .
+<http://kg.course/movie/film_00179>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_017> .
+<http://kg.course/movie/film_00179>  <http://kg.course/movie/film_tag>  "tag_name_04" .
+<http://kg.course/movie/film_00180>  <http://kg.course/movie/film_name>  "film_name_00180" .
+<http://kg.course/movie/film_00180>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0046> .
+ <http://kg.course/movie/company_0019>  <http://kg.course/movie/company_name>  "company_name_0019" .
+<http://kg.course/movie/film_00180>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_012> .
+<http://kg.course/movie/film_00180>  <http://kg.course/movie/film_tag>  "tag_name_06" .
+<http://kg.course/movie/film_00181>  <http://kg.course/movie/film_name>  "film_name_00181" .
+<http://kg.course/movie/film_00181>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0182> .
+ <http://kg.course/movie/company_0019>  <http://kg.course/movie/company_name>  "company_name_0019" .
+<http://kg.course/movie/film_00181>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_016> .
+<http://kg.course/movie/film_00181>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00182>  <http://kg.course/movie/film_name>  "film_name_00182" .
+<http://kg.course/movie/film_00182>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0092> .
+ <http://kg.course/movie/company_0019>  <http://kg.course/movie/company_name>  "company_name_0019" .
+<http://kg.course/movie/film_00182>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_060> .
+<http://kg.course/movie/film_00182>  <http://kg.course/movie/film_tag>  "tag_name_07" .
+<http://kg.course/movie/film_00183>  <http://kg.course/movie/film_name>  "film_name_00183" .
+<http://kg.course/movie/film_00183>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0037> .
+ <http://kg.course/movie/company_0019>  <http://kg.course/movie/company_name>  "company_name_0019" .
+<http://kg.course/movie/film_00183>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_007> .
+<http://kg.course/movie/film_00183>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00184>  <http://kg.course/movie/film_name>  "film_name_00184" .
+<http://kg.course/movie/film_00184>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0185> .
+ <http://kg.course/movie/company_0019>  <http://kg.course/movie/company_name>  "company_name_0019" .
+<http://kg.course/movie/film_00184>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_016> .
+<http://kg.course/movie/film_00184>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00185>  <http://kg.course/movie/film_name>  "film_name_00185" .
+<http://kg.course/movie/film_00185>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0038> .
+ <http://kg.course/movie/company_0019>  <http://kg.course/movie/company_name>  "company_name_0019" .
+<http://kg.course/movie/film_00185>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_039> .
+<http://kg.course/movie/film_00185>  <http://kg.course/movie/film_tag>  "tag_name_02" .
+<http://kg.course/movie/film_00186>  <http://kg.course/movie/film_name>  "film_name_00186" .
+<http://kg.course/movie/film_00186>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0024> .
+ <http://kg.course/movie/company_0019>  <http://kg.course/movie/company_name>  "company_name_0019" .
+<http://kg.course/movie/film_00186>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_004> .
+<http://kg.course/movie/film_00186>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00187>  <http://kg.course/movie/film_name>  "film_name_00187" .
+<http://kg.course/movie/film_00187>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0094> .
+ <http://kg.course/movie/company_0019>  <http://kg.course/movie/company_name>  "company_name_0019" .
+<http://kg.course/movie/film_00187>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_016> .
+<http://kg.course/movie/film_00187>  <http://kg.course/movie/film_tag>  "tag_name_08" .
+<http://kg.course/movie/film_00188>  <http://kg.course/movie/film_name>  "film_name_00188" .
+<http://kg.course/movie/film_00188>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0027> .
+ <http://kg.course/movie/company_0019>  <http://kg.course/movie/company_name>  "company_name_0019" .
+<http://kg.course/movie/film_00188>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_026> .
+<http://kg.course/movie/film_00188>  <http://kg.course/movie/film_tag>  "tag_name_07" .
+<http://kg.course/movie/film_00189>  <http://kg.course/movie/film_name>  "film_name_00189" .
+<http://kg.course/movie/film_00189>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0028> .
+ <http://kg.course/movie/company_0019>  <http://kg.course/movie/company_name>  "company_name_0019" .
+<http://kg.course/movie/film_00189>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_000> .
+<http://kg.course/movie/film_00189>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00190>  <http://kg.course/movie/film_name>  "film_name_00190" .
+<http://kg.course/movie/film_00190>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0032> .
+ <http://kg.course/movie/company_0020>  <http://kg.course/movie/company_name>  "company_name_0020" .
+<http://kg.course/movie/film_00190>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_001> .
+<http://kg.course/movie/film_00190>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00191>  <http://kg.course/movie/film_name>  "film_name_00191" .
+<http://kg.course/movie/film_00191>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0028> .
+ <http://kg.course/movie/company_0020>  <http://kg.course/movie/company_name>  "company_name_0020" .
+<http://kg.course/movie/film_00191>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_016> .
+<http://kg.course/movie/film_00191>  <http://kg.course/movie/film_tag>  "tag_name_06" .
+<http://kg.course/movie/film_00192>  <http://kg.course/movie/film_name>  "film_name_00192" .
+<http://kg.course/movie/film_00192>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0022> .
+ <http://kg.course/movie/company_0020>  <http://kg.course/movie/company_name>  "company_name_0020" .
+<http://kg.course/movie/film_00192>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_020> .
+<http://kg.course/movie/film_00192>  <http://kg.course/movie/film_tag>  "tag_name_03" .
+<http://kg.course/movie/film_00193>  <http://kg.course/movie/film_name>  "film_name_00193" .
+<http://kg.course/movie/film_00193>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0022> .
+ <http://kg.course/movie/company_0020>  <http://kg.course/movie/company_name>  "company_name_0020" .
+<http://kg.course/movie/film_00193>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_001> .
+<http://kg.course/movie/film_00193>  <http://kg.course/movie/film_tag>  "tag_name_05" .
+<http://kg.course/movie/film_00194>  <http://kg.course/movie/film_name>  "film_name_00194" .
+<http://kg.course/movie/film_00194>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0020> .
+ <http://kg.course/movie/company_0020>  <http://kg.course/movie/company_name>  "company_name_0020" .
+<http://kg.course/movie/film_00194>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_034> .
+<http://kg.course/movie/film_00194>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00195>  <http://kg.course/movie/film_name>  "film_name_00195" .
+<http://kg.course/movie/film_00195>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0040> .
+ <http://kg.course/movie/company_0020>  <http://kg.course/movie/company_name>  "company_name_0020" .
+<http://kg.course/movie/film_00195>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_006> .
+<http://kg.course/movie/film_00195>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00196>  <http://kg.course/movie/film_name>  "film_name_00196" .
+<http://kg.course/movie/film_00196>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0197> .
+ <http://kg.course/movie/company_0020>  <http://kg.course/movie/company_name>  "company_name_0020" .
+<http://kg.course/movie/film_00196>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_034> .
+<http://kg.course/movie/film_00196>  <http://kg.course/movie/film_tag>  "tag_name_05" .
+<http://kg.course/movie/film_00197>  <http://kg.course/movie/film_name>  "film_name_00197" .
+<http://kg.course/movie/film_00197>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0198> .
+ <http://kg.course/movie/company_0020>  <http://kg.course/movie/company_name>  "company_name_0020" .
+<http://kg.course/movie/film_00197>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_005> .
+<http://kg.course/movie/film_00197>  <http://kg.course/movie/film_tag>  "tag_name_09" .
+<http://kg.course/movie/film_00198>  <http://kg.course/movie/film_name>  "film_name_00198" .
+<http://kg.course/movie/film_00198>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0034> .
+ <http://kg.course/movie/company_0020>  <http://kg.course/movie/company_name>  "company_name_0020" .
+<http://kg.course/movie/film_00198>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_024> .
+<http://kg.course/movie/film_00198>  <http://kg.course/movie/film_tag>  "tag_name_01" .
+<http://kg.course/movie/film_00199>  <http://kg.course/movie/film_name>  "film_name_00199" .
+<http://kg.course/movie/film_00199>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0040> .
+ <http://kg.course/movie/company_0020>  <http://kg.course/movie/company_name>  "company_name_0020" .
+<http://kg.course/movie/film_00199>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_009> .
+<http://kg.course/movie/film_00199>  <http://kg.course/movie/film_tag>  "tag_name_08" .
+<http://kg.course/movie/film_00200>  <http://kg.course/movie/film_name>  "film_name_00200" .
+<http://kg.course/movie/film_00200>  <http://kg.course/movie/film_company>  <http://kg.course/movie/company_0023> .
+ <http://kg.course/movie/company_0021>  <http://kg.course/movie/company_name>  "company_name_0021" .
+<http://kg.course/movie/film_00200>  <http://kg.course/movie/film_director>  <http://kg.course/movie/director_042> .
+<http://kg.course/movie/film_00200>  <http://kg.course/movie/film_tag>  "tag_name_05" .

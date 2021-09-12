@@ -1,4 +1,6 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
+
+
 class MySPARQLWrapper:
 
     def query(self, query_string=None):

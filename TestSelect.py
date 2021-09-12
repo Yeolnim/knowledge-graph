@@ -1,4 +1,5 @@
 from MySPARQLWrapper import MySPARQLWrapper
+
 ms = MySPARQLWrapper()
 query_string = """
 PREFIX movie: <http://kg.course/movie/>
